@@ -1,1 +1,3 @@
 Criar o projeto para exibir as informações dos módulos da formação the coder
+
+Validar as datas de lançamento
